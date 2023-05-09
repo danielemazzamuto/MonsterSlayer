@@ -1,0 +1,23 @@
+{
+  "name": "monster-slayer-vue3",
+  "version": "1.0.0",
+  "description": "game",
+  "default": "app.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielemazzamuto/monster-slayer-vue3.git"
+  },
+  "author": "Daniele Mazzamuto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielemazzamuto/monster-slayer-vue3/issues"
+  },
+  "homepage": "https://github.com/danielemazzamuto/monster-slayer-vue3#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
